@@ -1,0 +1,18 @@
+
+{
+java:S1192'"`Define a constant instead of duplicating this literal " debido a restricciones de edad" 5 times.(óÌ¿ øÿÿÿÿ
+p
+java:S1192%"ZDefine a constant instead of duplicating this literal "El cliente puede comprar " 5 times.(³…´Ç
+x
+java:S1192'"]Define a constant instead of duplicating this literal "El cliente no puede comprar " 5 times.(óÌ¿ øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìåœÆıÿÿÿÿ
+@	java:S106%"+Replace this use of System.out by a logger.(³…´Ç
+E	java:S106'"+Replace this use of System.out by a logger.(óÌ¿ øÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(Ä¤Á‘úÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(Ëô••ùÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(ÖñÍÈùÿÿÿÿ
+@	java:S1063"+Replace this use of System.out by a logger.(ıÍ™Á
+E	java:S1067"+Replace this use of System.out by a logger.(×³ßóúÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(ù„Î
+@	java:S106="+Replace this use of System.out by a logger.(‰Áôö
+E	java:S106?"+Replace this use of System.out by a logger.(ìñš‚ÿÿÿÿÿ

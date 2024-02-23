@@ -1,0 +1,44 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal " bytes" 7 times.(†ì¬÷
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£´·×
+Q
+java:S1854";Remove this useless assignment to local variable "inicial".(¶º¤¶
+R
+java:S1854"<Remove this useless assignment to local variable "estatura".(ð€Þä
+P
+java:S1854":Remove this useless assignment to local variable "precio".(–ÀëÒ
+[
+java:S1854"@Remove this useless assignment to local variable "numeroGrande".(¶Éó…üÿÿÿÿ
+U
+java:S1854
+":Remove this useless assignment to local variable "numero".(ä£¦ùÿÿÿÿ
+U
+java:S1854	":Remove this useless assignment to local variable "codigo".(›öùÂýÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "edad".(¶Å£áûÿÿÿÿ
+D
+java:S1481")Remove this unused "edad" local variable.(¶Å£áûÿÿÿÿ
+F
+java:S1481	"+Remove this unused "codigo" local variable.(›öùÂýÿÿÿÿ
+F
+java:S1481
+"+Remove this unused "numero" local variable.(ä£¦ùÿÿÿÿ
+L
+java:S1481"1Remove this unused "numeroGrande" local variable.(¶Éó…üÿÿÿÿ
+A
+java:S1481"+Remove this unused "precio" local variable.(–ÀëÒ
+C
+java:S1481"-Remove this unused "estatura" local variable.(ð€Þä
+B
+java:S1481",Remove this unused "inicial" local variable.(¶º¤¶
+C
+java:S1481"-Remove this unused "esCierto" local variable.(®ÇÆà
+@	java:S106"+Replace this use of System.out by a logger.(¡¢ˆØ
+@	java:S106"+Replace this use of System.out by a logger.(†ì¬÷
+E	java:S106"+Replace this use of System.out by a logger.(ñŒ³¨øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¸ÄÇ²
+E	java:S106"+Replace this use of System.out by a logger.(µ¿¦¯úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Šûîûÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(µÍôs
+@	java:S106"+Replace this use of System.out by a logger.( ÎŒ§

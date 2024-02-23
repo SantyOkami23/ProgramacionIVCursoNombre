@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£´·×
+R
+java:S2589"7Remove this expression which always evaluates to "true"(Âèªúÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(šİĞ
+E	java:S106"+Replace this use of System.out by a logger.(Äş²“ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ç‚Ëµüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ûµ¨ß
+E	java:S106"+Replace this use of System.out by a logger.(­âõşÿÿÿÿ
+4
+java:S2178"Correct this "|" to "||".(óƒØ“ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(éŠ±ˆ
+4
+java:S2178 "Correct this "&" to "&&".(ËÌôÉÿÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(Öáğúÿÿÿÿ
