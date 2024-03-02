@@ -1,7 +1,7 @@
 package ciaf.prograIV.claseciclosycondicionales02.ejerciciosclase02;
 import java.util.Scanner;
 import java.util.Random;
-public class Ejercicio02 {
+public class Ejercicio002 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         Random random = new Random();

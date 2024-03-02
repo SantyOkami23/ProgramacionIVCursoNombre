@@ -1,6 +1,6 @@
 package ciaf.prograIV.claseciclosycondicionales02.ejerciciosclase02;
 import java.util.Scanner;
-public class Ejercicio01 {
+public class Ejercicio001 {
     public static void  main (String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduce un año:");
