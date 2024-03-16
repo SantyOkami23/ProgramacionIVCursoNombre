@@ -1,0 +1,17 @@
+
+h
+java:S1192$"MDefine a constant instead of duplicating this literal "El elemento " 4 times.(Š¤İğúÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£‹òk
+€
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ßß¶ïúÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(Ø”¸5
+E	java:S106"+Replace this use of System.out by a logger.(í»èúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(©•¶Ö
+@	java:S106 "+Replace this use of System.out by a logger.(•¸§à
+E	java:S106$"+Replace this use of System.out by a logger.(Š¤İğúÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(éÛ£©
+@	java:S106*"+Replace this use of System.out by a logger.(Ï¹äà
+@	java:S106."+Replace this use of System.out by a logger.(ÔîÒŞ
+E	java:S1060"+Replace this use of System.out by a logger.(ŸÁ£Åşÿÿÿÿ
+?	java:S1064"+Replace this use of System.out by a logger.(¼‚“M

@@ -1,0 +1,21 @@
+
+f
+java:S1192."KDefine a constant instead of duplicating this literal "La clave '" 3 times.(àäª£ýÿÿÿÿ
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£‹òk
+E	java:S106"+Replace this use of System.out by a logger.(î¹æÞýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÔÍÐÍþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÉòŠæ
+@	java:S106"+Replace this use of System.out by a logger.(š¼¯’
+E	java:S106%"+Replace this use of System.out by a logger.(û©‚òøÿÿÿÿ
+?	java:S106("+Replace this use of System.out by a logger.(°Õ®2
+@	java:S106,"+Replace this use of System.out by a logger.(É»àå
+E	java:S106."+Replace this use of System.out by a logger.(àäª£ýÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(ù½ˆÎ
+@	java:S1067"+Replace this use of System.out by a logger.(ðÂŽý
+@	java:S1069"+Replace this use of System.out by a logger.(ï’“×
+@	java:S106="+Replace this use of System.out by a logger.(ÑÊë•
+E	java:S106A"+Replace this use of System.out by a logger.(¸Ü’øøÿÿÿÿ
+E	java:S106D"+Replace this use of System.out by a logger.(óñ˜üúÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(ë×âòûÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(ë•ùÀùÿÿÿÿ
