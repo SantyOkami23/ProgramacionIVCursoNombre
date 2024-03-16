@@ -1,0 +1,17 @@
+
+i
+java:S1192 "NDefine a constant instead of duplicating this literal "El elemento '" 4 times.(°èÍÔûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£‹òk
+@	java:S106"+Replace this use of System.out by a logger.(˜¿ì
+E	java:S106"+Replace this use of System.out by a logger.(¥±óýþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ù¹¨€
+E	java:S106 "+Replace this use of System.out by a logger.(°èÍÔûÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(ÊêÂ‚ÿÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(“§˜êÿÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(ÏŠàê
+@	java:S106+"+Replace this use of System.out by a logger.(Ð´Š
+@	java:S1060"+Replace this use of System.out by a logger.(– åâ
+E	java:S1064"+Replace this use of System.out by a logger.(¤µãØùÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(öÕ‡Ÿýÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(…¾ßú
+@	java:S106>"+Replace this use of System.out by a logger.(É—Ã°
