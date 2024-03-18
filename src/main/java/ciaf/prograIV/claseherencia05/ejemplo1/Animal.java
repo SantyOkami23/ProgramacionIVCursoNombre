@@ -5,6 +5,8 @@ public class Animal {
     String nombre;
 
     // Constructor
+
+
     public Animal(String nombre) {
         this.nombre = nombre;
     }
