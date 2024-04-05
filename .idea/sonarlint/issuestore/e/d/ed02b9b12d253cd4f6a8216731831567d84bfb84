@@ -1,0 +1,12 @@
+
+p
+java:S1104"[Make atributoPublico a static final constant or non-public and provide accessors if needed.(„‚`
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—˜ŞÏøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Æ›ÙÅÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¢ôø¬ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(áæèç
+@	java:S106"+Replace this use of System.out by a logger.(¨†àª
+N
+java:S1068"3Remove this unused "atributoPrivado" private field.(öË¡çşÿÿÿÿ
+M
+java:S1144"2Remove this unused private "metodoPrivado" method.(È†Ê™ûÿÿÿÿ
