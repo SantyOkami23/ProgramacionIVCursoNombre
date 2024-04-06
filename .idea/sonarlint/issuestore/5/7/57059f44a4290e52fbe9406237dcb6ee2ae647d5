@@ -1,0 +1,7 @@
+
+m
+java:S1104"RMake nombre a static final constant or non-public and provide accessors if needed.(¯‰–‚úÿÿÿÿ
+m
+java:S1104"RMake puerto a static final constant or non-public and provide accessors if needed.(²æÚÓûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ªñ²ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ñ½‘Ô
